@@ -1,7 +1,7 @@
 service: learning-graphcool
 stage: dev
 
-datamodel: datamodel.graphql
+datamodel: types.graphql
 
 # to enable auth, provide
 # secret: my-secret
